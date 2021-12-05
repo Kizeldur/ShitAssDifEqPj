@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "46qc+j79nayZFE2GBWnseidFWNIncbVkAryfFDPKAKtO66dsnRCbSL3sIGcomHVHZs1W46W7GOvZpAkXbPMNJw==",
+  "success": true,
+  "projectFilePath": "D:\\CSReps\\ShitAssDirectionFieldPj\\ShitAssDirectionFieldPj.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\datagen\\0.1.18\\datagen.0.1.18.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.platforms\\3.0.0\\microsoft.netcore.platforms.3.0.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.win32.systemevents\\4.6.0\\microsoft.win32.systemevents.4.6.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\scottplot\\4.1.27\\scottplot.4.1.27.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\scottplot.wpf\\4.1.27\\scottplot.wpf.4.1.27.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\system.drawing.common\\4.6.1\\system.drawing.common.4.6.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Пакет \"datagen 0.1.18\" был восстановлен с помощью \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8\", а не целевой платформы проекта \"net5.0-windows7.0\". Этот пакет может быть не полностью совместим с вашим проектом.",
+      "libraryId": "datagen",
+      "targetGraphs": [
+        "net5.0-windows7.0"
+      ]
+    }
+  ]
+}

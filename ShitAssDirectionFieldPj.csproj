@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <UseWPF>true</UseWPF>
+    <UseWindowsForms>true</UseWindowsForms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="datagen" Version="0.1.18" />
+    <PackageReference Include="ScottPlot" Version="4.1.27" />
+    <PackageReference Include="ScottPlot.WPF" Version="4.1.27" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ShitAssDirectionFieldDrawingClass\ShitAssDirectionFieldDrawingPj.csproj" />
+  </ItemGroup>
+
+</Project>
